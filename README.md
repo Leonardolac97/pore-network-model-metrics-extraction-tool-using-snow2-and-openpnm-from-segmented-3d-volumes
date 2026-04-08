@@ -15,11 +15,9 @@ The workflow integrates:
 - Pore network extraction using SNOW2
 - Computation of:
   - Total porosity
-  - Percolating porosity
+  - Throat size distribution
+  - Coordination distribution
   - Pore size distribution (PSD)
-  - Permeability
-  - Tortuosity
-  - Dead-end pore fraction
 - Optional 3D visualization
 
 ## Input Requirements
