@@ -34,3 +34,8 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
+
+## Citation
+
+This software is archived at:
+https://doi.org/10.xxxx/xxxxx
