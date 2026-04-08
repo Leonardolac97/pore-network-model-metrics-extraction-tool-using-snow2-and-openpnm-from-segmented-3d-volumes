@@ -3,7 +3,7 @@
 ## Citation
 
 This software is archived at:
-https://doi.org/10.xxxx/xxxxx](https://doi.org/10.35097/wx033rkaeuzp5ynr
+https://doi.org/10.35097/wx033rkaeuzp5ynr
 
 ## Description
 
