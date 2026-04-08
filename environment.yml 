@@ -1,0 +1,23 @@
+name: pnm_from_labeled_tiff
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+
+  # Core scientific stack
+  - numpy>=1.23
+  - scipy>=1.9
+  - matplotlib>=3.6
+  - scikit-image>=0.20
+  - tifffile
+
+  # PNM tools
+  - porespy>=2.3
+  - openpnm>=3.2
+  - networkx>=2.8
+
+  # Visualization
+  - pyvista>=0.42
+
+  # Optional (recommended for notebooks)
+  - jupyterlab
