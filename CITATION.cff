@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Pore Network Model Metrics Extraction Tool Using SNOW2 and OpenPNM from Segmented 3D Volumes"
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "de Campos"
+    given-names: "Leonardo Almeida"
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+version: "1.0.0"
+date-released: 2026-04-08
+doi: "10.xxxx/xxxxx"
+repository-code: "https://github.com/YOUR_USERNAME/pnm-tool"
+license: "MIT"
+abstract: "Python workflow for pore network modeling from segmented 3D tomographic volumes using PoreSpy SNOW2 and OpenPNM."
+keywords:
+  - pore network modeling metrics
+  - SNOW2
+  - OpenPNM
+  - tomography
+  - X-ray
+  - porous media
