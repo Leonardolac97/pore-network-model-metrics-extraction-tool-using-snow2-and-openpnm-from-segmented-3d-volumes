@@ -7,7 +7,7 @@ authors:
     affiliation: "Karlsruhe Institute of Technology (KIT)"
 version: "1.0.0"
 date-released: 2026-04-08
-doi: "10.xxxx/xxxxx"
+doi: "https://doi.org/10.35097/wx033rkaeuzp5ynr"
 repository-code: "https://github.com/Leonardolac97/pore-network-model-metrics-extraction-tool-using-snow2-and-openpnm-from-segmented-3d-volumes"
 license: "MIT"
 abstract: "Python workflow for pore network modeling from segmented 3D tomographic volumes using PoreSpy SNOW2 and OpenPNM."
