@@ -8,7 +8,7 @@ authors:
 version: "1.0.0"
 date-released: 2026-04-08
 doi: "10.xxxx/xxxxx"
-repository-code: "https://github.com/YOUR_USERNAME/pnm_from_labeled_tiff"
+repository-code: "https://github.com/Leonardolac97/pore-network-model-metrics-extraction-tool-using-snow2-and-openpnm-from-segmented-3d-volumes"
 license: "MIT"
 abstract: "Python workflow for pore network modeling from segmented 3D tomographic volumes using PoreSpy SNOW2 and OpenPNM."
 keywords:
