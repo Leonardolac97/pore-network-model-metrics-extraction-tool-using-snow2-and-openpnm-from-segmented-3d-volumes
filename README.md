@@ -1,5 +1,10 @@
 # Pore Network Model Metrics Extraction Tool Using SNOW2 and OpenPNM from Segmented 3D Volumes
 
+## Citation
+
+This software is archived at:
+https://doi.org/10.xxxx/xxxxx
+
 ## Description
 
 This repository provides a Python-based workflow for extracting pore network model (PNM) metrics from segmented 3D tomographic datasets. The tool is designed for labeled volumetric data (e.g., from X-ray tomography), where the pore space is explicitly segmented.
@@ -20,7 +25,7 @@ The workflow integrates:
   - Pore size distribution (PSD)
 - Optional 3D visualization
 
-## Input Requirements
+ ## Input Requirements 
 
 - 3D TIFF file (segmented volume)
 - Label convention:
@@ -34,8 +39,3 @@ Install dependencies using:
 
 ```bash
 pip install -r requirements.txt
-
-## Citation
-
-This software is archived at:
-https://doi.org/10.xxxx/xxxxx
