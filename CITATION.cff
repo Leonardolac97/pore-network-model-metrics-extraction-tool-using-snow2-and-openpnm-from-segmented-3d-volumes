@@ -2,9 +2,15 @@ cff-version: 1.2.0
 title: "Pore Network Model Metrics Extraction Tool Using SNOW2 and OpenPNM from Segmented 3D Volumes"
 message: "If you use this software, please cite it as below."
 authors:
-    family-names: "Almeida de Campos"
+  - family-names: "Almeida de Campos"
     given-names: "Leonardo"
-    affiliation: "Karlsruhe Institute of Technology (KIT)"
+    affiliation: "Karlsruhe Institute of Technology (KIT), Institute for Chemical Technology and Polymer Chemistry (ITCP)"
+  - family-names: "Lennon Sheppard"
+    given-names: "Thomas"
+    affiliation: "Technische Universität Wien (TUWien)"
+  - family-names: "Grunwaldt"
+    given-names: "Jan-Dierk"
+    affiliation: "Karlsruhe Institute of Technology (KIT), Institute for Chemical Technology and Polymer Chemistry (ITCP)"
 version: "1.0.0"
 date-released: 2026-04-08
 doi: "https://doi.org/10.35097/wx033rkaeuzp5ynr"
